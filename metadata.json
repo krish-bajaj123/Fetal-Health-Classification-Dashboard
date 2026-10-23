@@ -1,0 +1,6 @@
+{
+  "name": "Fetal Health Classification Dashboard",
+  "description": "A clinical scan measurement dashboard and prediction conversation panel for classifying fetal health status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
